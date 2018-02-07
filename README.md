@@ -1,5 +1,10 @@
 # Contagio_GOT
 
+Proyecto realizado por:
+  -Alberto Fernandez-Baillo (@albeferodriguez)
+  -Carlos Piña
+  -Juan Luis Romero (@JuanluR8)
+
 Instrucciones de uso de la aplicación.
 Consideraciones previas:
 
