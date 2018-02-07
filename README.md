@@ -1,6 +1,7 @@
 # Contagio_GOT
 
 Proyecto realizado por:
+
   -Alberto Fernandez-Baillo (@albeferodriguez)
   -Carlos Piña
   -Juan Luis Romero (@JuanluR8)
